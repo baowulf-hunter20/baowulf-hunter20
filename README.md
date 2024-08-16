@@ -12,6 +12,6 @@ During this time I'll be gaining the skills and abilities to better myself for t
   or anything to get me skills and experiance in information techology.
 
   Resume:
-  <embed src="docs/yourfile.pdf" width="600" height="500" type="application/pdf">
+  <embed src="docs/file:///C:/Users/dkinc/Downloads/Joseph's%20Resume%20-%20May%202024-1.pdf" width="600" height="500" type="application/pdf">
 
 <!---
