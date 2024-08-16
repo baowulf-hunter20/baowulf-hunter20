@@ -9,6 +9,9 @@ During this time I'll be gaining the skills and abilities to better myself for t
   
 
 - ⚡ Fun fact: I like to play Elden ring. I like cats and I enjoy staying on a computer or finding networking opportunities
-  or anything to get me skills and experiance in information techology. 
+  or anything to get me skills and experiance in information techology.
+
+  Resume:
+  <embed src="docs/yourfile.pdf" width="600" height="500" type="application/pdf">
 
 <!---
