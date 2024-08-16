@@ -12,6 +12,6 @@ During this time I'll be gaining the skills and abilities to better myself for t
   or anything to get me skills and experiance in information techology.
 
   Resume:
- [View the PDF](docs/file:///C:/Users/dkinc/Downloads/Joseph's%20Resume%20-%20May%202024-1.pdf)
+ [View the PDF](https://github.com/baowulf-hunter20/baowulf-hunter20/blob/main/Joseph's%20Resume%20-%20May%202024-1.pdf)
 
 <!---
