@@ -18,11 +18,20 @@ Website: https://cybernetworkops.net
 Established: January 17th, 2022
 Price: Below Market. Trading for experiance and knowledge. 
 
-  
-- ⚡ Fun fact: I like to play Elden ring. I like cats and I enjoy staying on a computer or finding networking opportunities
-  or anything to get me skills and experiance in information techology.
+📄 Relevent Certifications: 
+>CompTia Network+
+>TestOut Network Pro
+>CompTia Security+
+>TestOut Pc Pro 
+
 
   Resume:
  [View my Resume & Achievments](https://github.com/baowulf-hunter20/baowulf-hunter20/blob/main/Joseph's%20Resume%20-%20May%202024-1.pdf)
+
+View my projects
+
+- ⚡ Fun fact: I like to play Elden ring. I like cats and I enjoy staying on a computer or finding networking opportunities
+  or anything to get me skills and experiance in information techology.
+
 
 <!---
