@@ -14,7 +14,7 @@ need advising on new tech trends, equipmemt replacement, assess network, and so 
 more at a lower rate than other competitors. Keeping in mind data integrity and client privacy. 
 
 Consulting Name: Marshall Tech Consulting
-Website: https://josephswebsite5.godaddy.com
+Website: https://josephswebsite5.godaddysites.com
 Established: January 17th, 2022
 Price: Below Market. Trading for experiance and knowledge. 
 
