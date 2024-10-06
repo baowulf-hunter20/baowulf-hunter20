@@ -74,9 +74,9 @@ I love **cats** 🐱, and I’m always up for networking (both in the **virtual*
   </a>
 </p>
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=heath-joseph&style=flat-square&color=brightgreen)
-![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heath-joseph&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heath-joseph&layout=compact&theme=radical)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=baowulf-hunter20&style=flat-square&color=brightgreen)
+![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baowulf-hunter20&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baowulf-hunter20&layout=compact&theme=radical)
 
 ---
 
