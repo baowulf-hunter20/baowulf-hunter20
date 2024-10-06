@@ -11,6 +11,7 @@ I'm currently pursuing a **Bachelor's in Information Technology** at the **Unive
 ## 🔗 Connect with Me:
 - **Email**: [joseph.heath@networksecops.net](mailto:joseph.heath@networksecops.net)
 - **Phone**: +1 (352) 530-6555
+- **LinkedIn**: [Heath J Joseph](https://www.linkedin.com/in/heath-j-joseph-86b439242)  
 - **Website**: [Marshall Tech Consulting](https://josephswebsite5.godaddysites.com)  
 
 I'm also the founder of **Marshall Tech Consulting**—a consulting gig established to help residential and commercial clients assess and implement tech solutions at a more affordable rate than competitors, while focusing on **data integrity** and **client privacy**.
@@ -43,7 +44,7 @@ I’m seeking to **collaborate** on **Cybersecurity** projects that focus on **d
 - **CompTIA Security+**
 - **TestOut PC Pro** ([Verify](https://certification.testout.com/verifycert/6-1C6-V5HA28) 🔗)
 
-[![View Resume](https://img.shields.io/badge/View-Resume-informational?style=for-the-badge&logo=Resume)](#)
+[![View Resume](https://img.shields.io/badge/View-My_Resume-informational?style=for-the-badge&logo=github)](./Joseph's%20Resume%20-%20August%202024.pdf)
 
 ---
 
@@ -56,9 +57,9 @@ I’m seeking to **collaborate** on **Cybersecurity** projects that focus on **d
 
 ## ⚡ Fun Fact:
 I enjoy playing **Elden Ring** 🗡️.  
-I love **cats** 🐱, and I’m always up for networking (both in the **virtual** and **professional** sense)!  
+![Elden Ring GIF](https://media.giphy.com/media/S8EYcSsrVzjMJZoEFk/giphy.gif)
 
-![Elden Ring Meme](https://media.giphy.com/media/xT9KVHzQ3vcI6LGLzy/giphy.gif)
+I love **cats** 🐱, and I’m always up for networking (both in the **virtual** and **professional** sense)!
 
 ---
 
