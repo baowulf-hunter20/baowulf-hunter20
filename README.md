@@ -55,7 +55,7 @@ I’m seeking to **collaborate** on **Cybersecurity** projects that focus on **d
 
 ## ⚡ Fun Fact:
 I enjoy playing **Elden Ring** 🗡️.  
-![Elden Ring GIF](https://giphy.com/gifs/xbox-knight-xbox-series-x-elden-ring-cbPZqLTl9JEQMiPWQY)
+![Elden Ring GIF](https://giphy.com/clips/bandainamco-pvp-elden-ring-colosseum-45j8cYDVIDctft5emU)
 
 I love **cats** 🐱, and I’m always up for networking (both in the **virtual** and **professional** sense)!
 
