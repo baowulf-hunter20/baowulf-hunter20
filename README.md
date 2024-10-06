@@ -53,6 +53,25 @@ I’m seeking to **collaborate** on **Cybersecurity** projects that focus on **d
 
 ---
 
+___
+
+## 🛡️ NSA Codebreaker Challenge
+
+![NSA Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/National_Security_Agency.svg/1200px-National_Security_Agency.svg.png)
+
+During the **NSA Codebreaker Challenge**, I participated in several tasks that tested my skills in cybersecurity, reverse engineering, and network defense. Below are the tasks I completed along with their details:
+
+| **Task** | **Status** | **Description**                      |
+|----------|------------|--------------------------------------|
+| **Task 1** | ✅ Complete | **Initial Network Recon**: Analyzed network traffic to identify malicious communication and determine the command-and-control server. |
+| **Task 2** | ✅ Complete | **Binary Reverse Engineering**: Reversed a binary executable to extract hidden credentials and decipher an obfuscated payload. |
+| **Task 3** | ✅ Complete | **Exploit Development**: Developed a custom exploit to bypass security controls and gain access to a protected system. |
+| **Task 4** | ⏳ In Progress | **Cryptography Analysis**: Working on breaking an encryption scheme used in intercepted communications. |
+
+> **Challenge Complexity**: The NSA Codebreaker Challenge is known for its rigorous nature, involving a variety of technical problems that reflect real-world scenarios in national security and cyber defense.
+
+___
+
 ## ⚡ Fun Fact:
 I enjoy playing **Elden Ring** 🗡️.  
 ![Elden Ring GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGo4MmZoazFsaDdscmp1MDFqd2Z1MTV3dzkwdmF1dTcwdmk4ZXl6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ed43pvu4QlLH0i2oAr/giphy.webp)
