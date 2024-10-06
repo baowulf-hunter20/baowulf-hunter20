@@ -41,7 +41,7 @@ I’m seeking to **collaborate** on **Cybersecurity** projects that focus on **d
 - **CompTIA Network+**
 - **TestOut Network Pro**
 - **CompTIA Security+**
-- **TestOut PC Pro**
+- **TestOut PC Pro** ([Verify](https://certification.testout.com/verifycert/6-1C6-V5HA28) 🔗)
 
 [![View Resume](https://img.shields.io/badge/View-Resume-informational?style=for-the-badge&logo=Resume)](#)
 
