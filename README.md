@@ -66,7 +66,7 @@ I love **cats** 🐱, and I’m always up for networking (both in the **virtual*
   <a href="mailto:joseph.heath@networksecops.net">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/joseph-heath">
+  <a href="https://www.linkedin.com/in/heath-j-joseph-86b439242/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/heath-joseph">
