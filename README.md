@@ -1,37 +1,86 @@
-- 👋 Hi, my name is Heath Joseph (or just Joseph)
-I'm pursuing cybersecuiryty and the field of information technology. I will be pursuing my bachlor's in IT at UCF in 2025.
-During this time I'll be gaining the skills and abilities to better myself for this industry.
+# 👋 Hey, I'm Heath Joseph (or just **Joseph**)!  
 
-- 💞️ I’m looking to collaborate on Cybersecurity projects and projects that involve data security and privacy. 
-- 📫 How to reach me:
-  >EMAIL : joseph.heath@networksecops.net
-  >PHONE : +1 (352) 530-6555
+![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-- I'm also taking part in a side gig that I call "Marshall Tech Consulting." 
-This is a consulting gig I have in place to gain new skills and experiance
-from jobs in tech that people need or if residential or commercial clients
-need advising on new tech trends, equipmemt replacement, assess network, and so much 
-more at a lower rate than other competitors. Keeping in mind data integrity and client privacy. 
+I'm currently pursuing a **Bachelor's in Information Technology** at the **University of Central Florida (UCF)**, expected to graduate in **2025**. During this time, I'm working on gaining the skills and experiences necessary to thrive in the fields of **Cybersecurity** and **Information Technology**.
 
-Consulting Name: Marshall Tech Consulting
-Website: https://josephswebsite5.godaddysites.com
-Established: January 17th, 2022
-Price: Below Market. Trading for experiance and knowledge. 
+![Coding Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
-📄 Relevent Certifications: 
->CompTia Network+
->TestOut Network Pro
->CompTia Security+
->TestOut Pc Pro 
+---
 
+## 🔗 Connect with Me:
+- **Email**: [joseph.heath@networksecops.net](mailto:joseph.heath@networksecops.net)
+- **Phone**: +1 (352) 530-6555
+- **Website**: [Marshall Tech Consulting](https://josephswebsite5.godaddysites.com)  
 
-  Resume:
- [View my Resume & Achievments](https://github.com/baowulf-hunter20/baowulf-hunter20/blob/main/Joseph's%20Resume%20-%20May%202024-1.pdf)
+I'm also the founder of **Marshall Tech Consulting**—a consulting gig established to help residential and commercial clients assess and implement tech solutions at a more affordable rate than competitors, while focusing on **data integrity** and **client privacy**.
 
-View my projects
+---
 
-- ⚡ Fun fact: I like to play Elden ring. I like cats and I enjoy staying on a computer or finding networking opportunities
-  or anything to get me skills and experiance in information techology.
+## 🏢 **Marshall Tech Consulting**
+![Cat Consultant](https://media.giphy.com/media/5i7umUqAOYYEw/giphy.gif)
 
+- **Established**: January 17th, 2022  
+- **Consulting Services**:  
+  - **Network Assessments**  
+  - **Equipment Recommendations & Replacement**  
+  - **Tech Trend Analysis & Advising**  
+  - **Data Security & Privacy Consulting**  
+- **Pricing**: Below Market (focused on trading for experience and knowledge)
 
-<!---
+---
+
+## 💞️ What I'm Looking For:
+I’m seeking to **collaborate** on **Cybersecurity** projects that focus on **data security, privacy**, and **network defense**. Open to **contributing** to any projects in the **InfoSec** community!
+
+![Cyber Cat](https://media.giphy.com/media/1BXa2alBjrCXC/giphy.gif)
+
+---
+
+## 📄 Certifications:
+- **CompTIA Network+**
+- **TestOut Network Pro**
+- **CompTIA Security+**
+- **TestOut PC Pro**
+
+[![View Resume](https://img.shields.io/badge/View-Resume-informational?style=for-the-badge&logo=Resume)](#)
+
+---
+
+## 🌟 Projects:
+- [**Cybersecurity Hands-On Labs**](#)  
+- [**Data Anomaly Detection Tool**](#)  
+- [**Kali Linux Automation Scripts**](#)
+
+---
+
+## ⚡ Fun Fact:
+I enjoy playing **Elden Ring** 🗡️.  
+I love **cats** 🐱, and I’m always up for networking (both in the **virtual** and **professional** sense)!  
+
+![Elden Ring Meme](https://media.giphy.com/media/xT9KVHzQ3vcI6LGLzy/giphy.gif)
+
+---
+
+## ✨ Let's Connect!
+<p align="center">
+  <a href="mailto:joseph.heath@networksecops.net">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/joseph-heath">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/heath-joseph">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=heath-joseph&style=flat-square&color=brightgreen)
+![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heath-joseph&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heath-joseph&layout=compact&theme=radical)
+
+---
+
+## 🐾 One Last Thing!
+### Here's a motivational cat meme just for you:
+![Motivational Cat](https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif)
