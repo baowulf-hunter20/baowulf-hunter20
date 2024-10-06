@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Heath Joseph (or just **Joseph**)!  
 
-I'm currently pursuing a **Bachelor's in Information Technology** at the **University of Central Florida (UCF)**, expected to graduate in **2025**. During this time, I'm working on gaining the skills and experiences necessary to thrive in the fields of **Cybersecurity** and **Information Technology**.
+I'm currently pursuing a **Bachelor's in Information Technology** at the **University of Central Florida (UCF)**, expected to graduate (hopefully) in **2026**. During this time, I'm working on gaining the skills and experiences necessary to thrive in the fields of **Cybersecurity** and **Information Technology**.
 
 ![Coding Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
