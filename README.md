@@ -63,9 +63,9 @@ During the **NSA Codebreaker Challenge**, I participated in several tasks that t
 
 | **Task** | **Status** | **Description**                      |
 |----------|------------|--------------------------------------|
-| **Task 1** | ✅ Complete | **Initial Network Recon**: Analyzed network traffic to identify malicious communication and determine the command-and-control server. |
-| **Task 2** | ✅ Complete | **Binary Reverse Engineering**: Reversed a binary executable to extract hidden credentials and decipher an obfuscated payload. |
-| **Task 3** | ✅ Complete | **Exploit Development**: Developed a custom exploit to bypass security controls and gain access to a protected system. |
+| **Task 1** | ✅ Complete | **Database analysis & File Forensics**: Analyzing .db files or archives while extracting known fradulant data to known or authorized transactions through a mixed or unstructured/encoded dataset. |
+| **Task 2** | ✅ Complete | **File Hashing & File Forensics**: Gathered and reconstructed filesystem to get access to file integrity hashes and comparing them to critical militia documents leading back to a threat actor or group. |
+| **Task 3** | ⏳ In Progress | **Reverse Engineering**: Engineering documents to find json content or data within a file/directory or subset of data using NSA or git extraction/reverse engineering tools. |
 | **Task 4** | ⏳ In Progress | **Cryptography Analysis**: Working on breaking an encryption scheme used in intercepted communications. |
 
 > **Challenge Complexity**: The NSA Codebreaker Challenge is known for its rigorous nature, involving a variety of technical problems that reflect real-world scenarios in national security and cyber defense.
