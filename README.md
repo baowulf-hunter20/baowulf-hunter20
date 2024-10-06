@@ -69,7 +69,7 @@ I love **cats** 🐱, and I’m always up for networking (both in the **virtual*
   <a href="https://www.linkedin.com/in/heath-j-joseph-86b439242/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/heath-joseph">
+  <a href="https://github.com/baowulf-hunter20">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
