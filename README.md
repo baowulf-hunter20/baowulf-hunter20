@@ -42,7 +42,7 @@ I’m seeking to **collaborate** on **Cybersecurity** projects that focus on **d
 - **CompTIA Security+**
 - **TestOut PC Pro** ([Verify](https://certification.testout.com/verifycert/6-1C6-V5HA28) 🔗)
 
-[![View Resume](https://img.shields.io/badge/View-My_Resume-informational?style=for-the-badge&logo=github)](https://github.com/baowulf-hunter20/baowulf-hunter20/blob/0c6208b03d6ef22104f9361f8c26ca047057809b/Joseph's%20Resume%20-%20May%202024-1.pdf)
+[![View Resume](https://img.shields.io/badge/View-My_Resume-informational?style=for-the-badge&logo=github)]()
 
 ---
 
