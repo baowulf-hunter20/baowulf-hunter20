@@ -57,7 +57,7 @@ ___
 
 ## 🛡️ NSA Codebreaker Challenge
 
-![NSA Logo](https://www.nsa.gov/Portals/75/images/about/cryptologic-heritage/center-cryptologic-history/insignia/nsa-insignia-lg.png)
+![NSA Logo](https://www.nsa.gov/portals/75/Images/Seal_of_the_U.S._National_Security_Agency_(1963-1966).png)
 
 During the **NSA Codebreaker Challenge**, I participated in several tasks that tested my skills in cybersecurity, reverse engineering, and network defense. Below are the tasks I completed along with their details:
 
