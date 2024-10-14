@@ -45,7 +45,7 @@ I’m seeking to **collaborate** on **Cybersecurity** projects that focus on **d
 
 ## 🔒 PaloAlto Certifications (Network Admin (IDS/IPS) & Services Admin):
 - **PaloAlto | PCNSA (Certified Network Security Administrator)**
-   (|Verify) | Expire (Dec 2nd, 2026)
+> (|Verify) | Expire (Dec 2nd, 2026)
 
 [![View Resume](https://img.shields.io/badge/View-My_Resume-informational?style=for-the-badge&logo=github)](https://github.com/baowulf-hunter20/baowulf-hunter20/blob/f02c960e3a2d154fb12d0ead2f848ca8d6010297/Joseph's%20Resume%20-%20May%202024-1.pdf)
 
