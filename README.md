@@ -77,7 +77,7 @@ During the **NSA Codebreaker Challenge**, I participated in several tasks that t
 ___
 
 ## ⚡ Fun Fact:
-I enjoy playing **Elden Ring** 🗡️.  
+I enjoy playing **Elden Ring** 🗡️. I cannot tell you how difficult it was to beat this game, especially the Malketh the "Black Blade." It was a fun and challenging experiance to play this game and earn the platinum trophy 🏆 
 ![Elden Ring GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGo4MmZoazFsaDdscmp1MDFqd2Z1MTV3dzkwdmF1dTcwdmk4ZXl6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ed43pvu4QlLH0i2oAr/giphy.webp)
 
 I love **cats** 🐱, and I’m always up for networking (both in the **virtual** and **professional** sense)!
