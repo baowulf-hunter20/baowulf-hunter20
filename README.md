@@ -36,12 +36,19 @@ I’m seeking to **collaborate** on **Cybersecurity** projects that focus on **d
 
 ---
 
-## 📄 Certifications: (|Verify)
-- **CompTIA Network+** (|Verify)
-- **TestOut Network Pro** (|Verify)
-- **CompTIA Security+** (|Verify)
-- **TestOut PC Pro** ([Verify](https://certification.testout.com/verifycert/6-1C6-V5HA28) 🔗) | Expire : 3/yr (Jan 2027)
-- **TestOut Network Pro** (|Verify) | Expire : 3/yr (July 2027)
+## 📄 Certifications:
+- **CompTIA Network+**
+> (|Verify)
+- **TestOut Network Pro**
+> (|Verify)
+- **CompTIA Security+**
+> (|Verify)
+- **TestOut PC Pro**
+> ([Verify](https://certification.testout.com/verifycert/6-1C6-V5HA28) 🔗)
+> Expire : 3/yr (Jan 2027)
+- **TestOut Network Pro**
+> (|Verify)
+> Expire : 3/yr (July 2027)
 
 ## 🔒 PaloAlto Certifications (Network Admin (IDS/IPS) & Services Admin):
 - **PaloAlto | PCNSA (Certified Network Security Administrator)**
