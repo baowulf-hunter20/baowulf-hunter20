@@ -16,7 +16,7 @@ I'm also the founder of **Marshall Tech Consulting**—a consulting gig establis
 
 ---
 
-## 🏢 **Marshall Tech Consulting**
+## 🏢 **Syntrix Security, LLC**
 ![Cat Consultant](https://media.giphy.com/media/5i7umUqAOYYEw/giphy.gif)
 
 - **Established**: January 17th, 2022  
