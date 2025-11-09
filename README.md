@@ -1,91 +1,101 @@
-# 👋 Hey, I'm Heath Joseph (or just **Joseph**)!  
+# 👋 Hey, I'm Heath Joseph (or just **Joseph**)  
 
-I'm currently pursuing a **Bachelor's in Information Technology** at the **University of Central Florida (UCF)**, expected to graduate (hopefully) in **2026**. During this time, I'm working on gaining the skills and experiences necessary to thrive in the fields of **Cybersecurity** and **Information Technology**.
+🎓 **B.S. in Information Technology**  
+📍 **University of Central Florida (UCF)** — *Expected Graduation: 2026*  
+
+I'm passionate about **Cybersecurity**, **Network Engineering**, and **IT Systems Administration**.  
+Currently, I’m deepening my experience in **security architecture**, **endpoint management**, and **threat mitigation**, building both technical proficiency and strategic insight into modern defense frameworks like **NIST 800-53**, **CISA**, and **Zero Trust** models.
 
 ![Coding Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ---
 
-## 🔗 Connect with Me:
-- **Email**: [joseph.heath@networksecops.net](mailto:joseph.heath@networksecops.net)
-- **Phone**: +1 (352) 530-6555
-- **LinkedIn**: [Heath J Joseph](https://www.linkedin.com/in/heath-j-joseph-86b439242)  
-- **Website**: [Marshall Tech Consulting](https://josephswebsite5.godaddysites.com)  
+## 🏢 Syntrix Security™, LLC
 
-I'm also the founder of **Marshall Tech Consulting**—a consulting gig established to help residential and commercial clients assess and implement tech solutions at a more affordable rate than competitors, while focusing on **data integrity** and **client privacy**.
+![Cyber Cat GIF](https://media.giphy.com/media/5i7umUqAOYYEw/giphy.gif)
 
----
+I’m the **Founder and Security Consultant** of **Syntrix Security™, LLC**, a Florida-based cybersecurity and IT consulting company specializing in:
 
-## 🏢 **Syntrix Security, LLC**
-![Cat Consultant](https://media.giphy.com/media/5i7umUqAOYYEw/giphy.gif)
+- 🧩 **Network Assessments & Infrastructure Hardening**  
+- 🔐 **Data Protection & Endpoint Security**  
+- ☁️ **Microsoft 365, Intune, and Defender Integration**  
+- 🧠 **Compliance & Risk Advisory (NIST / CISA)**  
 
-- **Established**: January 17th, 2022  
-- **Consulting Services**:  
-  - **Network Assessments**  
-  - **Equipment Recommendations & Replacement**  
-  - **Tech Trend Analysis & Advising**  
-  - **Data Security & Privacy Consulting**  
-- **Pricing**: Below Market (focused on trading for experience and knowledge)
+💼 **Mission Statement:**  
+> Empowering businesses with secure, scalable, and modernized IT environments through tailored cybersecurity consulting and cloud-first solutions.
+
+🌐 **Website:** [syntrixsecurity.com](https://syntrixsecurity.com)
 
 ---
 
-## 💞️ What I'm Looking For:
-I’m seeking to **collaborate** on **Cybersecurity** projects that focus on **data security, privacy**, and **network defense**. Open to **contributing** to any projects in the **InfoSec** community!
-
-![Cyber Cat](https://media.giphy.com/media/1BXa2alBjrCXC/giphy.gif)
-
----
-
-## 📄 Certifications:
-- **CompTIA Network+** > (|Verify)
-- **TestOut Network Pro** > (|Verify)
-- **CompTIA Security+** > (|Verify)
-- **TestOut PC Pro** > ([Verify](https://certification.testout.com/verifycert/6-1C6-V5HA28) 🔗) > Expire : 3/yr (Jan 2027)
-- **TestOut Network Pro** > (|Verify) Expire : 3/yr (July 2027)
-
-## 🔒 PaloAlto Certifications (Network Admin (IDS/IPS) & Services Admin):
-- **PaloAlto | PCNSA (Certified Network Security Administrator)** > (|Verify) | Expire (Dec 2nd, 2026)
-
-[![View Resume](https://img.shields.io/badge/View-My_Resume-informational?style=for-the-badge&logo=github)](https://github.com/baowulf-hunter20/baowulf-hunter20/blob/f02c960e3a2d154fb12d0ead2f848ca8d6010297/Joseph's%20Resume%20-%20May%202024-1.pdf)
+## 🔗 Connect with Me
+- 📧 **Email:** [hjoseph@syntrixsec.com](mailto:joseph.heath@networksecops.net)  
+- 📱 **Phone:** +1 (352) 530-6555  
+- 💼 **LinkedIn:** [Heath J. Joseph](https://www.linkedin.com/in/heath-j-joseph-86b439242)  
+- 💻 **GitHub:** [baowulf-hunter20](https://github.com/baowulf-hunter20)
 
 ---
 
-## 🌟 Projects:
-- [**Cybersecurity Hands-On Labs**](#)  
-- [**Data Anomaly Detection Tool**](#)  
-- [**Kali Linux Automation Scripts**](#)
+## 🎯 What I’m Working On
+- Building secure network automation frameworks using **PowerShell**, **Python**, and **Kali Linux**.  
+- Enhancing **Azure Backup**, **Intune app deployment**, and **endpoint recovery** methods.  
+- Developing **Syntrix Security™’s internal documentation** for client onboarding, SLA templates, and system continuity plans.  
+- Expanding expertise in **cloud threat detection** and **Defender for Endpoint policy tuning**.
 
 ---
 
-___
+## 🧠 Certifications
+| Certification | Authority | Status / Expiration |
+|---------------|------------|----------------------|
+| **CompTIA Network+** | CompTIA | ⏳ *In Progress* |
+| **CompTIA Security+** | CompTIA | ⏳ *In Progress* |
+| **TestOut PC Pro** | TestOut | ✅ *Expires Jan 2027* |
+| **TestOut Network Pro** | TestOut | ✅ *Expires July 2027* |
+| **Palo Alto PCNSA** | Palo Alto Networks | ✅ *Expires Dec 2026* |
+
+> 📜 *More certifications coming soon (Microsoft SC-900, AZ-500, and eJPT).*
+
+---
+
+## 🧩 Projects
+- 🔍 **Cybersecurity Hands-On Labs** — Red & Blue team practicals  
+- 🧱 **Data Anomaly Detection Tool** — Custom Python-based detection for abnormal activity  
+- ⚙️ **Kali Linux Automation Scripts** — Efficiency tools for ethical testing and network scanning  
+- ☁️ **Azure Backup + Intune Rollout Framework** — Automated recovery and endpoint resilience solution  
+
+[![View Resume](https://img.shields.io/badge/View_My_Resume-informational?style=for-the-badge&logo=github)](https://github.com/baowulf-hunter20/baowulf-hunter20/blob/f02c960e3a2d154fb12d0ead2f848ca8d6010297/Joseph's%20Resume%20-%20May%202024-1.pdf)
+
+---
 
 ## 🛡️ NSA Codebreaker Challenge
 
-![NSA Logo](https://www.nsa.gov/portals/75/Images/Seal_of_the_U.S._National_Security_Agency_(1963-1966).png)
+![NSA Logo](https://upload.wikimedia.org/wikipedia/commons/2/29/Seal_of_the_U.S._National_Security_Agency.svg)
 
-During the **NSA Codebreaker Challenge**, I participated in several tasks that tested my skills in cybersecurity, reverse engineering, and network defense. Below are the tasks I completed along with their details:
+Participated in the **NSA Codebreaker Challenge**, focusing on:
+- **File Forensics**, **Hash Analysis**, and **Data Reconstruction**
+- **Reverse Engineering JSON Data Structures**
+- **Cryptography & Secure Communication Analysis**
 
-| **Task** | **Status** | **Description**                      |
-|----------|------------|--------------------------------------|
-| **Task 1** | ✅ Complete | **Database analysis & File Forensics**: Analyzing .db files or archives while extracting known fradulant data to known or authorized transactions through a mixed or unstructured/encoded dataset. |
-| **Task 2** | ✅ Complete | **File Hashing & File Forensics**: Gathered and reconstructed filesystem to get access to file integrity hashes and comparing them to critical militia documents leading back to a threat actor or group. |
-| **Task 3** | ⏳ In Progress | **Reverse Engineering**: Engineering documents to find json content or data within a file/directory or subset of data using NSA or git extraction/reverse engineering tools. |
-| **Task 4** | ⏳ In Progress | **Cryptography Analysis**: Working on breaking an encryption scheme used in intercepted communications. |
+| **Task** | **Status** | **Description** |
+|-----------|------------|----------------|
+| **Task 1** | ✅ | Database forensics and fraud pattern analysis |
+| **Task 2** | ✅ | File hashing and data reconstruction |
+| **Task 3** | ⏳ | Reverse engineering and JSON extraction |
+| **Task 4** | ⏳ | Cryptography and encryption scheme analysis |
 
-> **Challenge Complexity**: The NSA Codebreaker Challenge is known for its rigorous nature, involving a variety of technical problems that reflect real-world scenarios in national security and cyber defense.
-
-___
-
-## ⚡ Fun Fact:
-I enjoy playing **Elden Ring** 🗡️. I cannot tell you how difficult it was to beat this game, especially the "Maliketh, the Black Blade." It was a fun and yet, a challenging experiance to play this game and earn the platinum trophy 🏆 
-
-![Elden Ring GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGo4MmZoazFsaDdscmp1MDFqd2Z1MTV3dzkwdmF1dTcwdmk4ZXl6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ed43pvu4QlLH0i2oAr/giphy.webp)
-
-I love **cats** 🐱, and I’m always up for networking (both in the **virtual** and **professional** sense)!
+> 🧩 *A hands-on experience in real-world cyber defense scenarios and intelligence forensics.*
 
 ---
 
-## ✨ Let's Connect!
+## ⚡ Fun Fact
+I beat **Maliketh, the Black Blade** in *Elden Ring* 🗡️ and proudly earned the **Platinum Trophy** 🏆 — proof that persistence (and a few rage-quits) pay off.  
+Also, I *love cats* 🐱 — they’re the real network administrators behind the scenes.
+
+![Elden Ring GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGo4MmZoazFsaDdscmp1MDFqd2Z1MTV3dzkwdmF1dTcwdmk4ZXl6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ed43pvu4QlLH0i2oAr/giphy.webp)
+
+---
+
+## ✨ Let’s Connect!
 <p align="center">
   <a href="mailto:joseph.heath@networksecops.net">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -104,44 +114,20 @@ I love **cats** 🐱, and I’m always up for networking (both in the **virtual*
 
 ---
 
-## 🐾 One Last Thing!
-### Here's a motivational cat meme just for you:
+## 🐾 Motivation Corner
 ![Motivational Cat](https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif)
 
-## My Digital Profile
-Over the course of developing my digital portfolio, 
-I’ve made solid progress showcasing my technical
-background and projects on GitHub. 
-I’m generally satisfied with the page layout, 
-as it remains clean and structured, making 
-navigation simple for visitors. I’ve chosen 
-a color scheme that reflects a professional 
-yet modern aesthetic, and the fonts I’ve used 
-are readable across devices. Creating this 
-digital space has helped me better understand 
-how to present both personal and technical 
-accomplishments in a compelling and accessible way. 
-One of the key things I’ve learned is how vital 
-organization is when showcasing code 
-repositories—having clear README files, 
-consistent naming, and descriptive commit 
-messages significantly improves the viewer’s 
-experience.
+> “Cybersecurity isn’t just defense — it’s foresight.  
+>  Build systems that expect attacks, and you’ll never be caught off-guard.”
 
-That said, I still have some questions about 
-enhancing the interactivity and visual appeal 
-of my portfolio. For instance, I’m considering 
-integrating more dynamic features, like animated 
-project previews or interactive timelines, but 
-I’m unsure which frameworks or tools would be 
-best suited for that. Navigating the balance 
-between simplicity and detail has also been 
-a bit challenging, especially when deciding 
-how much explanation to include for each project. 
-I plan to explore resources like GitHub Pages, 
-Jekyll themes, and developer forums to refine 
-the site further. The process of building this 
-portfolio has reinforced the importance of 
-consistent updates and clarity in communication, 
-which are both essential in the professional 
-tech space.
+---
+
+## 💻 My Digital Footprint
+Over time, I’ve learned that maintaining a digital identity is more than just publishing repositories — it’s about communicating **clarity, consistency, and capability**. My GitHub and Syntrix portfolio reflect my ongoing growth as a **cybersecurity professional**, showcasing both technical skill and professional development.
+
+I continue to explore ways to make my portfolio more **interactive**, potentially integrating:
+- 🎬 Animated project previews  
+- 📊 Interactive timelines (via JS or Jekyll)  
+- 🌗 Dark/light theme toggle for accessibility  
+
+> 🧭 *“Professionalism meets personality — that’s the Syntrix standard.”*
