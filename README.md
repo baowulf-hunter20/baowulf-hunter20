@@ -32,7 +32,7 @@ Empowering businesses with secure, scalable, and modernized IT environments thro
 
 ### Microsoft Certifications
 
-<p align="center">
+<p align="left">
 	<a href="https://learn.microsoft.com/">
 		<img src="https://tippyfodder.github.io/images/ms-learn-logo2.png" alt="Microsoft Learn Banner" width="360" />
 	</a>
@@ -48,7 +48,7 @@ Empowering businesses with secure, scalable, and modernized IT environments thro
 
 ### CompTIA Certifications
 
-<p align="center">
+<p align="left">
 	<img src="https://ctutraining.ac.za/wp-content/uploads/2024/05/comptia-logo.png" alt="CompTIA Banner" width="360" />
 </p>
 
@@ -58,7 +58,7 @@ Empowering businesses with secure, scalable, and modernized IT environments thro
 | CompTIA Security+ | In Progress |
 
 ### TestOut Certifications
-<p align="center">
+<p align="left">
 	<img src="https://th.bing.com/th/id/OIP.5Q4n6YzzEF2wx_0RYnxMdgHaEK?w=320&h=180&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3" alt="TestOut Banner" width="360" />
 </p>
 
