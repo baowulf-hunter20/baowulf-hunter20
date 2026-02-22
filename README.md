@@ -30,7 +30,6 @@ Empowering businesses with secure, scalable, and modernized IT environments thro
 
 ## Certifications
 
-### Microsoft Certifications
 
 <p align="left">
 	<a href="https://learn.microsoft.com/">
@@ -38,7 +37,6 @@ Empowering businesses with secure, scalable, and modernized IT environments thro
 	</a>
 </p>
 
-> Update tonight with your final verification URLs from your Microsoft Learn Credentials profile.
 
 | Certification | Status | Verify |
 |---|---|---|
