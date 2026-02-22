@@ -36,7 +36,6 @@ Empowering businesses with secure, scalable, and modernized IT environments thro
 	</a>
 </p>
 
-> Update tonight with your final verification URLs from your Microsoft Learn Credentials profile.
 
 | Certification | Status | Verify |
 |---|---|---|
