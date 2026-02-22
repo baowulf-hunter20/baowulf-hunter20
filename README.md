@@ -28,13 +28,17 @@ Empowering businesses with secure, scalable, and modernized IT environments thro
 
 ---
 
-## Microsoft Certifications
+## Certifications
+
+### Microsoft Certifications
 
 <p align="center">
 	<a href="https://learn.microsoft.com/">
-		<img src="https://tippyfodder.github.io/images/ms-learn-logo2.png" alt="Microsoft Learn Banner" width="520" />
+		<img src="https://tippyfodder.github.io/images/ms-learn-logo2.png" alt="Microsoft Learn Banner" width="360" />
 	</a>
 </p>
+
+> Update tonight with your final verification URLs from your Microsoft Learn Credentials profile.
 
 | Certification | Status | Verify |
 |---|---|---|
@@ -42,15 +46,30 @@ Empowering businesses with secure, scalable, and modernized IT environments thro
 | Microsoft Certified: Identity and Access Administrator Associate (SC-300) | ✅ Earning tonight | [![Verify](https://img.shields.io/badge/Verify-Microsoft%20Learn-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/YOUR-LEARN-ID/credentials/YOUR-SC300-ID) |
 | Microsoft Certified: Identity and Access Fundamentals (placeholder) | ✅ Earning tonight | [![Verify](https://img.shields.io/badge/Verify-Microsoft%20Learn-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/YOUR-LEARN-ID/credentials/YOUR-IDENTITY-ID) |
 
----
+### CompTIA Certifications
 
-## Additional Certifications
+<p align="center">
+	<img src="https://th.bing.com/th/id/OIP.z91NI-0iF0tMdZXsOHM6ywHaBl?w=282&h=74&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3" alt="CompTIA Banner" width="360" />
+</p>
+
+| Certification | Status |
+|---|---|
+| CompTIA Network+ | In Progress |
+| CompTIA Security+ | In Progress |
+
+### TestOut Certifications
+<p align="center">
+	<img src="https://th.bing.com/th/id/OIP.5Q4n6YzzEF2wx_0RYnxMdgHaEK?w=320&h=180&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3" alt="TestOut Banner" width="360" />
+</p>
+
+| Certification | Status |
+|---|---|
+| TestOut PC Pro | Active (Expires Jan 2027) |
+| TestOut Network Pro | Active (Expires Jul 2027) |
+
+### Other Industry Certifications
 | Certification | Authority | Status |
 |---|---|---|
-| CompTIA Network+ | CompTIA | In Progress |
-| CompTIA Security+ | CompTIA | In Progress |
-| TestOut PC Pro | TestOut | Active (Expires Jan 2027) |
-| TestOut Network Pro | TestOut | Active (Expires Jul 2027) |
 | Palo Alto PCNSA | Palo Alto Networks | Active (Expires Dec 2026) |
 
 ---
