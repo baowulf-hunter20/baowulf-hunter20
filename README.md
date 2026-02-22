@@ -30,7 +30,11 @@ Empowering businesses with secure, scalable, and modernized IT environments thro
 
 ## Microsoft Certifications
 
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/)
+<p align="center">
+	<a href="https://learn.microsoft.com/">
+		<img src="https://tippyfodder.github.io/images/ms-learn-logo2.png" alt="Microsoft Learn Banner" width="520" />
+	</a>
+</p>
 
 > Update tonight with your final verification URLs from your Microsoft Learn Credentials profile.
 
