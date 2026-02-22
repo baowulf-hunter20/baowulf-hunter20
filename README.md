@@ -49,7 +49,7 @@ Empowering businesses with secure, scalable, and modernized IT environments thro
 ### CompTIA Certifications
 
 <p align="center">
-	<img src="https://th.bing.com/th/id/OIP.z91NI-0iF0tMdZXsOHM6ywHaBl?w=282&h=74&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3" alt="CompTIA Banner" width="360" />
+	<img src="https://ctutraining.ac.za/wp-content/uploads/2024/05/comptia-logo.png" alt="CompTIA Banner" width="360" />
 </p>
 
 | Certification | Status |
