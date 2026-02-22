@@ -36,8 +36,6 @@ Empowering businesses with secure, scalable, and modernized IT environments thro
 	</a>
 </p>
 
-> Update tonight with your final verification URLs from your Microsoft Learn Credentials profile.
-
 | Certification | Status | Verify |
 |---|---|---|
 | Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900) | ✅ Earning tonight | [![Verify](https://img.shields.io/badge/Verify-Microsoft%20Learn-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/YOUR-LEARN-ID/credentials/YOUR-SC900-ID) |
