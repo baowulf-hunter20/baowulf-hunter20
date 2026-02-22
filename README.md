@@ -30,12 +30,15 @@ Empowering businesses with secure, scalable, and modernized IT environments thro
 
 ## Certifications
 
+### Microsoft Certifications
+
 <p align="left">
 	<a href="https://learn.microsoft.com/">
 		<img src="https://tippyfodder.github.io/images/ms-learn-logo2.png" alt="Microsoft Learn Banner" width="360" />
 	</a>
 </p>
 
+> Update tonight with your final verification URLs from your Microsoft Learn Credentials profile.
 
 | Certification | Status | Verify |
 |---|---|---|
@@ -56,7 +59,7 @@ Empowering businesses with secure, scalable, and modernized IT environments thro
 
 ### TestOut Certifications
 <p align="left">
-	<img src="[https://th.bing.com/th/id/OIP.5Q4n6YzzEF2wx_0RYnxMdgHaEK?w=320&h=180&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3](https://a-vtechnology.com/wp-content/uploads/2020/09/TestOut-Labsim-Logo-e1595138647798-1.png)" alt="TestOut Banner" width="360" />
+	<img src="https://a-vtechnology.com/wp-content/uploads/2020/09/TestOut-Labsim-Logo-e1595138647798-1.png" alt="TestOut Banner" width="360" />
 </p>
 
 | Certification | Status |
