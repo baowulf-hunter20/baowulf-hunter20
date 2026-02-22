@@ -30,8 +30,6 @@ Empowering businesses with secure, scalable, and modernized IT environments thro
 
 ## Certifications
 
-### Microsoft Certifications
-
 <p align="left">
 	<a href="https://learn.microsoft.com/">
 		<img src="https://tippyfodder.github.io/images/ms-learn-logo2.png" alt="Microsoft Learn Banner" width="360" />
